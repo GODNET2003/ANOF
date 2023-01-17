@@ -4,18 +4,63 @@
 
 
 {
-         "name": "FREE-TH-AIS-ais-play",
-         "url": "https://raw.githubusercontent.com/GODNET2003/ANOF/main/Ais.ovpn"
+         "name": "FREE-TH-01-AIS-ais-play",
+         "url": "https://raw.githubusercontent.com/GODNET2003/ANOF/main/Ais1.ovpn"
       }
 ,
 {
-         "name": "FREE-TH-DTAC-no-pro",
-         "url": "https://raw.githubusercontent.com/GODNET2003/ANOF/main/Dtac.ovpn"
+         "name": "FREE-TH-01-DTAC-no-pro",
+         "url": "https://raw.githubusercontent.com/GODNET2003/ANOF/main/Dtac1.ovpn"
       }
 ,
 {
-         "name": "FREE-TH-TRUE-no-pro",
-         "url": "https://raw.githubusercontent.com/GODNET2003/ANOF/main/True.ovpn"
+         "name": "FREE-TH-01-TRUE-no-pro",
+         "url": "https://raw.githubusercontent.com/GODNET2003/ANOF/main/True1.ovpn"
+      }
+,
+{
+         "name": "FREE-TH-02-AIS-ais-play",
+         "url": "https://raw.githubusercontent.com/GODNET2003/ANOF/main/Ais2.ovpn"
+      }
+,
+{
+         "name": "FREE-TH-02-DTAC-no-pro",
+         "url": "https://raw.githubusercontent.com/GODNET2003/ANOF/main/Dtac2.ovpn"
+      }
+,
+{
+         "name": "FREE-TH-02-TRUE-no-pro",
+         "url": "https://raw.githubusercontent.com/GODNET2003/ANOF/main/True2.ovpn"
+      }
+,
+{
+         "name": "FREE-TH-03-AIS-ais-play",
+         "url": "https://raw.githubusercontent.com/GODNET2003/ANOF/main/Ais3.ovpn"
+      }
+,
+{
+         "name": "FREE-TH-03-DTAC-no-pro",
+         "url": "https://raw.githubusercontent.com/GODNET2003/ANOF/main/Dtac3.ovpn"
+      }
+,
+{
+         "name": "FREE-TH-03-TRUE-no-pro",
+         "url": "https://raw.githubusercontent.com/GODNET2003/ANOF/main/True3.ovpn"
+      }
+,
+{
+         "name": "FREE-TH-04-AIS-ais-play",
+         "url": "https://raw.githubusercontent.com/GODNET2003/ANOF/main/Ais4.ovpn"
+      }
+,
+{
+         "name": "FREE-TH-04-DTAC-no-pro",
+         "url": "https://raw.githubusercontent.com/GODNET2003/ANOF/main/Dtac4.ovpn"
+      }
+,
+{
+         "name": "FREE-TH-04-TRUE-no-pro",
+         "url": "https://raw.githubusercontent.com/GODNET2003/ANOF/main/True4.ovpn"
       }
 
 
@@ -33,7 +78,7 @@
 
 🤍ขอให้สนุกกับการใช้งานครับ
 
-\n\nเวอร์ชั่นไฟล์:1.14",
+\n\nเวอร์ชั่นไฟล์:1.15",
 "title":"New Update File" ,
-   "version":3
+   "version":4
 }
